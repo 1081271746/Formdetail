@@ -89,7 +89,7 @@ export default function AppearanceGrid() {
           <div>
             <div className="font-medium text-gray-800">Accent color</div>
             <div className="text-sm text-gray-500">
-              Pick your platform's main color
+              Pick your platforms main color
             </div>
           </div>
           <div className="grid grid-cols-5 gap-3">
